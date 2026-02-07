@@ -1,0 +1,15 @@
+# Java compilado
+*.class
+
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
